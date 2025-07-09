@@ -2,21 +2,25 @@
   {
     "title": "Face/Off",
     "date": "07",
-    "poster": "https://letterboxd.com/film/face-off/image-150/"
+    "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
+    "rating": 4
   },
   {
     "title": "Air Guitar Nation",
     "date": "03",
-    "poster": "https://letterboxd.com/film/air-guitar-nation/image-150/"
+    "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
+    "rating": 2.5
   },
   {
     "title": "Bring Her Back",
     "date": "03",
-    "poster": "https://letterboxd.com/film/bring-her-back/image-150/"
+    "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
+    "rating": 4
   },
   {
     "title": "Thunderbolts*",
     "date": "02",
-    "poster": "https://letterboxd.com/film/thunderbolts/image-150/"
+    "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
+    "rating": 3
   }
 ]
