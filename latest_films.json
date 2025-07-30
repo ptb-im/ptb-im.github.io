@@ -1,5 +1,11 @@
 [
   {
+    "title": "American History X",
+    "date": "29",
+    "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
+    "rating": 4
+  },
+  {
     "title": "Best in Show",
     "date": "29",
     "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
@@ -16,11 +22,5 @@
     "date": "26",
     "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
     "rating": 2.5
-  },
-  {
-    "title": "The Fantastic Four: First Steps",
-    "date": "26",
-    "poster": "https://s.ltrbxd.com/static/img/empty-poster-35-vLSHh7kq.png",
-    "rating": 3.5
   }
 ]
